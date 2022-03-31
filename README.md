@@ -46,6 +46,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough (GIF)
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
+I added the gif files in my repository.
 (file:///C:/Users/15516/AppData/Local/VirtualStore/Program%20Files%20(x86)/LICEcap/Gif1.gif)
 (file:///C:/Users/15516/AppData/Local/VirtualStore/Program%20Files%20(x86)/LICEcap/Gif2.gif)
 
@@ -82,7 +83,7 @@ What are the most popular applications used in web development?
 ## Interview Recording URL Link
 
 [My 5-minute Interview Recording]
-(file:///C:/Users/15516/Documents/GitHub/codepath-prework/video6889902635.mp4)
+(https://vimeo.com/694246151)
 
 
 ## License
